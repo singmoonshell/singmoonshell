@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Spider, CloudNative** 
 - 🌱 I’m currently learning **Python, Linux, Quant** 
-- 👯 I’m looking to collaborate on **Alibaba, Tencent, ByteDance**
+- 👯 I’m looking to collaborate on **Java Platform, Website Design, Quant Algorithm**
 - 🤔 I’m looking for help with **Python, Quant**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/singmoonshell)
 - 📝 I regularly write articles on [ByteCat](https://www.bytecat.cn)
